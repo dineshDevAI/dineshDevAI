@@ -1,348 +1,189 @@
-<!-- ========================================================= -->
-
-<!--                    DINESH SONAWANE                        -->
-
-<!--                  GitHub Profile README                    -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-# 👋 Hi, I'm Dinesh Sonawane
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=200&section=header&text=Dinesh%20Sonawane&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20Java%20%E2%80%A2%20Python%20%E2%80%A2%20DSA%20%E2%80%A2%20AI&descAlignY=58&descSize=18" />
 
-### 🚀 Aspiring Software Developer | Java • Python • DSA • AI
+<a href="https://github.com/dineshDevAI">
+  <img src="https://img.shields.io/badge/GitHub-dineshDevAI-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/dinesh-sonawane-02646a308/">
+  <img src="https://img.shields.io/badge/LinkedIn-Dinesh%20Sonawane-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:dineshsonawane06565@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://leetcode.com/u/vEu6OOClyq/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode" />
+</a>
 
-**Building practical software, learning AI, and solving problems one commit at a time.**
+<img src="https://komarev.com/ghpvc/?username=dineshDevAI&label=Profile%20Views&color=2c5364&style=for-the-badge" />
 
-<p>
-  <a href="https://github.com/dineshDevAI">
-    <img src="https://img.shields.io/badge/GitHub-dineshDevAI-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dinesh-sonawane-02646a308/">
-    <img src="https://img.shields.io/badge/LinkedIn-Dinesh%20Sonawane-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:dineshsonawane06565@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://leetcode.com/u/vEu6OOClyq/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
-  </a>
-</p>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=dineshDevAI&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+PlacementAI+%F0%9F%A4%96;Learning+AI+Agents+%F0%9F%A7%A0;Java+%2B+Python+%2B+DSA+%E2%98%95;Open+to+Collaboration+%F0%9F%A4%9D" />
+</a>
 
 </div>
 
----
+<br/>
 
 ## 🧑‍💻 About Me
 
-I'm **Dinesh Sonawane**, an aspiring software developer passionate about building real-world applications and exploring the intersection of **software engineering and AI**.
+I'm **Dinesh Sonawane**, an aspiring software developer passionate about building real-world applications at the intersection of **software engineering and AI**.
 
-* 🔭 Currently building **[PlacementAI](https://github.com/dineshDevAI)** — an AI-powered platform focused on placement preparation.
-* 🌱 Currently learning **AI Agents, AI integration, and intelligent application development**.
-* 💻 Strongly interested in **Java, Python, DSA, backend development, and AI**.
-* 🤝 Open to collaborating on **Java, Python, AI, and beginner-friendly open-source projects**.
-* 🧠 Currently improving my skills in **problem solving, system thinking, and scalable application development**.
-* 💬 Ask me about **Java, Python, DSA, AI projects, or my developer journey**.
-* 📫 Reach me at **[dineshsonawane06565@gmail.com](mailto:dineshsonawane06565@gmail.com)**
-* ⚡ Fun fact: **I enjoy turning ideas into projects and learning by building.**
+```yaml
+current_focus:   Building PlacementAI — AI-powered placement preparation platform
+learning:        AI Agents, LLM integration, scalable backend systems
+collaborate_on:  Java · Python · AI · beginner-friendly open-source
+looking_for:     Help with Java, DSA, AI integration & scalable real-world apps
+ask_me_about:    Java · Python · DSA · AI projects · my dev journey
+reach_me:        dineshsonawane06565@gmail.com
+fun_fact:        I enjoy turning ideas into projects and learning by building
+```
 
----
+<br/>
 
-## 🚀 Current Focus
+## 🌟 Featured Project — PlacementAI
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%" valign="top">
 
-### 🤖 PlacementAI
+**PlacementAI** is my flagship project — an AI-powered platform built to help students prepare for technical placements more effectively, combining DSA practice, mock interviews, and personalized AI guidance.
 
-An AI-powered project designed to help students prepare for placements more effectively.
+| Feature | Description |
+|---|---|
+| 🤖 AI Assistant | AI-powered placement guidance |
+| 💻 DSA Practice | Coding & problem-solving prep |
+| 🧠 Interview Prep | Technical & HR interview practice |
+| 📊 Progress Tracking | Track preparation over time |
+| 🎯 Personalization | Learning adapted to the user |
 
-**Focus areas:**
-
-* 🎯 Placement preparation
-* 🤖 AI-powered assistance
-* 🧠 Interview preparation
-* 💻 DSA practice
-* 📊 Progress tracking
-* ⚡ Personalized learning
+> 🚧 Actively in development — ⭐ star it on [GitHub](https://github.com/dineshDevAI) to follow along.
 
 </td>
-
-<td width="50%">
-
-### 🧠 Currently Learning
+<td width="40%" valign="top">
 
 ```text
-AI Agents
-   ↓
-LLM Integration
-   ↓
-AI-powered Applications
-   ↓
-Backend Development
-   ↓
-Scalable Real-world Systems
+Frontend
+  └─ React
+Backend
+  └─ Java / Python
+AI Layer
+  └─ LLMs · AI Agents
+Database
+  └─ MySQL / MongoDB
+Deploy
+  └─ Docker · Cloud
 ```
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+<div align="center">
 
-<p>
+**Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=java,python,c,js,php" />
-</p>
 
-### 🌐 Web & Backend
-
-<p>
+**Web & Backend**
+<br/>
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,django" />
-</p>
 
-### 🗄️ Databases & Cloud
-
-<p>
+**Databases & Cloud**
+<br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws" />
-</p>
 
-### 🤖 AI / ML
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow" /> <img src="https://cdn.simpleicons.org/ollama/white" width="48" height="48" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://cdn.simpleicons.org/ollama" width="48" height="48" alt="Ollama"/>
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p>
+**Tools & Platforms**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,androidstudio,arduino,jupyter" />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dineshDevAI&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshDevAI&layout=compact&langs_count=8&hide_border=true" />
 
 </div>
 
-<br>
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshDevAI&hide_border=true" alt="GitHub Streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dineshDevAI&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshDevAI&hide_border=true&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshDevAI&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
 
 </div>
 
----
+<br/>
 
-# 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![Dinesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dineshDevAI\&theme=github-compact\&hide_border=true)](https://github.com/dineshDevAI)
+<!--START_SECTION:activity-graph-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dineshDevAI/dineshDevAI/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dineshDevAI/dineshDevAI/output/github-contribution-grid-snake.svg" />
+  <img alt="dineshDevAI's contribution snake" src="https://raw.githubusercontent.com/dineshDevAI/dineshDevAI/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+<!--END_SECTION:activity-graph-->
 
 </div>
 
----
+> This snake animation is generated by the GitHub Action in `.github/workflows/snake.yml` — see setup notes below. It's self-hosted, so unlike third-party widgets it won't randomly break.
 
-# 🏆 GitHub Achievements
+<br/>
+
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dineshDevAI&theme=flat&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dineshDevAI&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
 
----
+> If the trophy row doesn't load on first visit, refresh the page once — this widget's server occasionally needs a moment to respond.
 
-# ⭐ Featured Project
+<br/>
 
-<div align="center">
+## 🎯 2026 Goals
 
-## 🤖 PlacementAI
+- [ ] 🚀 Build and grow **PlacementAI**
+- [ ] 🧠 Get stronger at **DSA & problem solving**
+- [ ] 🤖 Ship practical **AI Agent** applications
+- [ ] ☕ Deepen **Java & backend development**
+- [ ] 🐍 Improve **Python for AI**
+- [ ] 🌐 Build scalable full-stack apps
+- [ ] 🐳 Learn more **Docker & deployment**
+- [ ] 🌎 Contribute to **open-source**
+- [ ] 💼 Become placement-ready
 
-### AI-powered placement preparation platform
+<br/>
 
-</div>
-
-> **PlacementAI** is my main project focused on helping students prepare for technical placements using AI-powered features and personalized learning.
-
-### 🎯 Planned / Current Features
-
-| Feature                     | Description                            |
-| --------------------------- | -------------------------------------- |
-| 🤖 AI Assistant             | AI-powered placement guidance          |
-| 💻 DSA Practice             | Coding and problem-solving preparation |
-| 🧠 Interview Prep           | Technical & interview preparation      |
-| 📚 Learning Resources       | Organized preparation material         |
-| 📊 Progress Tracking        | Track preparation and improvement      |
-| 🎯 Personalized Preparation | Adapt preparation based on user needs  |
-
-### 🧩 Tech Direction
-
-```text
-Frontend
-   │
-   ├── React / Web Technologies
-   │
-Backend
-   │
-   ├── Java / Python
-   │
-AI Layer
-   │
-   ├── LLMs
-   ├── AI Agents
-   └── AI APIs / Local Models
-   │
-Database
-   │
-   ├── MySQL / MongoDB
-   │
-Deployment
-   │
-   └── Docker / Cloud
-```
-
-> 🚧 **PlacementAI is actively being developed.**
-
----
-
-# 📌 Development Roadmap
-
-```text
-                    DINESH'S ROADMAP
-
-        ┌──────────────────────────────┐
-        │       Core Programming       │
-        │       Java • Python • C      │
-        └──────────────┬───────────────┘
-                       │
-                       ▼
-        ┌──────────────────────────────┐
-        │        Data Structures       │
-        │       Algorithms • DSA       │
-        └──────────────┬───────────────┘
-                       │
-                       ▼
-        ┌──────────────────────────────┐
-        │       Backend Development    │
-        │    APIs • Databases • Cloud  │
-        └──────────────┬───────────────┘
-                       │
-                       ▼
-        ┌──────────────────────────────┐
-        │       Artificial Intelligence│
-        │      LLMs • AI • Agents      │
-        └──────────────┬───────────────┘
-                       │
-                       ▼
-        ┌──────────────────────────────┐
-        │       Real-world Systems     │
-        │      🚀 PlacementAI 🚀       │
-        └──────────────────────────────┘
-```
-
----
-
-# 🎯 2026 Goals
-
-* [ ] 🚀 Build and improve **PlacementAI**
-* [ ] 🧠 Become stronger in **DSA & problem solving**
-* [ ] 🤖 Build practical **AI Agent applications**
-* [ ] ☕ Strengthen **Java & backend development**
-* [ ] 🐍 Improve **Python for AI**
-* [ ] 🌐 Build scalable full-stack applications
-* [ ] 🐳 Learn more about **Docker & deployment**
-* [ ] ☁️ Improve **cloud development skills**
-* [ ] 🌎 Contribute to **open-source projects**
-* [ ] 💼 Become placement/job ready
-
----
-
-# 📚 What I'm Learning
+## 🤝 Let's Connect
 
 <div align="center">
 
-| Area           | Focus                          |
-| -------------- | ------------------------------ |
-| ☕ Java         | OOP • Collections • Backend    |
-| 🐍 Python      | Automation • AI • Backend      |
-| 🧩 DSA         | Problem Solving • Algorithms   |
-| 🤖 AI          | LLMs • AI Agents • Integration |
-| 🌐 Development | APIs • Full Stack • Databases  |
-| ☁️ Cloud       | AWS • Deployment • Docker      |
-| 🔧 Engineering | Git • GitHub • Clean Code      |
+I'm always open to interesting software ideas, AI projects, DSA discussions, and open-source collaboration.
 
-</div>
+<a href="mailto:dineshsonawane06565@gmail.com"><img src="https://img.shields.io/badge/Email-dineshsonawane06565%40gmail.com-EA4335?style=for-the-badge&logo=gmail" /></a>
+<a href="https://github.com/dineshDevAI"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/dinesh-sonawane-02646a308/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 
----
-
-# 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://github.com/dineshDevAI">
-<img src="https://img.shields.io/badge/GitHub-dineshDevAI-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/u/vEu6OOClyq/">
-<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dinesh-sonawane-02646a308/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in:
-
-* 💡 Interesting software ideas
-* 🤖 AI projects
-* ☕ Java development
-* 🐍 Python projects
-* 🧩 DSA & competitive programming
-* 🌎 Open-source collaboration
-* 🚀 Building useful products
-
-<div align="center">
-
-### 💬 Let's build something useful together.
-
-<a href="mailto:dineshsonawane06565@gmail.com">
-<img src="https://img.shields.io/badge/Email-dineshsonawane06565%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/dineshDevAI">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you find my projects interesting, consider starring them!
+<br/><br/>
 
 **"Build → Learn → Improve → Repeat."**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=100&section=footer" />
 
 </div>
